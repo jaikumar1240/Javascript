@@ -261,4 +261,4 @@ function convertToObj(arr) {
     }, )
 }
 
-console.log(convertToObj(['a', 'b', 'c', 'd', 'e']))
+// console.log(convertToObj(['a', 'b', 'c', 'd', 'e']))
